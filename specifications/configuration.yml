@@ -4,5 +4,4 @@ specifications:
   spec_type: Profile
   use_cases_url: https://www.github.com/openschemas/spec-hardware
   version: 0.0.1
-  parent_type: Thing
-- name: Hardware
+  parent_type: Thingg
